@@ -62,3 +62,4 @@ typings/
 
 /.idea
 /.git
+/node_modules
